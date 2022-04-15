@@ -1,7 +1,7 @@
 <h1 align="center">Język C- zadania</h1>
   
 <div align="center">
-  <p>C language - exercises (English Below}</p>
+  <p>C language - exercises (English Below)</p>
 </div>
 
 <h2>Treść zadania</h2>
